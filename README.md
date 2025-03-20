@@ -1,10 +1,5 @@
-## Hi there 👋
-
-<!--
-**balwanishivam/balwanishivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 💫 About Me:
-I am currently working as a working student backend developer, also working and learning devops, Working on django rest framework currently, pursuing masters of science in computer science from Saarland University. I am learning devops and also ML. Looking forward to colaborate on Devops, MLOps
+# 💫 About Me:
+I am a Werkstudent Backend Developer, currently working with Django Rest Framework while learning and exploring DevOps. Pursuing a Master of Science in Computer Science at Saarland University, I am also delving into Machine Learning. Passionate about bridging the gap between development and operations, I am eager to collaborate on DevOps and MLOps projects.
 
 
 ## 🌐 Socials:
@@ -21,13 +16,3 @@ I am currently working as a working student backend developer, also working and 
 [![](https://visitcount.itsvg.in/api?id=balwanishivam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
